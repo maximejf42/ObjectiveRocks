@@ -3920,9 +3920,12 @@
 			buildActionMask = 2147483647;
 			files = (
 			);
+			inputFileListPaths = (
+			);
 			inputPaths = (
 			);
 			outputPaths = (
+				"$(PROJECT_DIR)/rocksdb/util/build_version.cc",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
