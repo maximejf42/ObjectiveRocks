@@ -3920,10 +3920,12 @@
 			buildActionMask = 2147483647;
 			files = (
 			);
+			inputFileListPaths = (
+			);
 			inputPaths = (
 			);
 			outputPaths = (
-				/Users/jon/digita/code/github/monitor/Carthage/Checkouts/ObjectiveRocks/rocksdb/util/build_version.cc,
+				"$(PROJECT_DIR)/rocksdb/util/build_version.cc",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
